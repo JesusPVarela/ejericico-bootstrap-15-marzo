@@ -1,0 +1,14 @@
+body{
+    background-color:#2732cc ;
+    font-family: 'Cambay', sans-serif;
+}
+.principal{
+    background-color: rgb(173, 236, 231);
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+} 
+
+h1, h2, h3, h4, h5{
+    font-family: 'Mitr', sans-serif;
+}
